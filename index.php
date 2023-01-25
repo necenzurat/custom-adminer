@@ -14,7 +14,7 @@ function adminer_object() {
         new AdminerLoginPasswordLess(null),
         new AdminerJsonPreview,
         new AdminerFloatThead,
-        new AdminerSimpleMenu,
+        //new AdminerSimpleMenu,
         //new ConventionForeignKeys,
         new AdminerEditForeign,
 
